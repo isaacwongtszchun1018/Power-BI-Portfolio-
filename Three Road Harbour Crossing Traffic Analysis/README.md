@@ -42,11 +42,11 @@ Data Source: data.gov.hk (Hong Kong SAR Government Open Data Portal)
 | File | What it is |
 | :---: | :---: |
 | RHC.pbix | The Power BI Dashboard file|
-| Row 2, Col 1 | Page 1 – Overview Screenshot |
-| Row 2, Col 1 | Page 2 – Western Harbour Crossing (WHC) |
-| Row 2, Col 1 | Page 3 – Cross Harbour Tunnel (CHT) |
-| Row 2, Col 1 | Page 4 – Eastern Harbour Crossing (EHC) |
-| Row 2, Col 1 | Page 5 – Total Harbour Crossings |
+| Page 1 – Overview Screenshot.png | Page 1 – Overview Screenshot |
+| Page 2 – Western Harbour Crossing (WHC).png | Page 2 – Western Harbour Crossing (WHC) |
+| Page 3 – Cross Harbour Tunnel (CHT).png | Page 3 – Cross Harbour Tunnel (CHT) |
+| Page 4 – Eastern Harbour Crossing (EHC).png | Page 4 – Eastern Harbour Crossing (EHC) |
+| Page 5 – Total Harbour Crossings.png | Page 5 – Total Harbour Crossings |
 
 
 
