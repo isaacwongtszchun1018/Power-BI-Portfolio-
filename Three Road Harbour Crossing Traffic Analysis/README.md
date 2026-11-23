@@ -13,7 +13,7 @@ Analysing monthly traffic flow changes under the Old Toll Plan (prior to the 633
 
 ## Methodology
 Since only monthly traffic data is available from data.gov.hk, the dashboard uses average monthly flows to represent each toll plan:
-•	Old Toll Plan: Average monthly traffic flow between Jun 2019 – Aug 2023  
+•	Old Toll Plan: Average monthly traffic flow between Jun 2019 – Aug 2023    
 •	633 Toll Plan: Average monthly traffic flow between Aug 2023 – Dec 2023  
 •	644 Toll Plan: Average monthly traffic flow between Jan 2024 – Jun 2026
 
